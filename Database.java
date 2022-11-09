@@ -1,3 +1,3 @@
 public class Database {
-    private Database db = new Database();
+    public Database db = new Database();
 }
